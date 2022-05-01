@@ -1,1 +1,9 @@
-海杰真帅
+git status //查看本地库状态
+git config --global user.name  xxx   // 设置用户名
+git config --global user.email  xxx   // 设置邮箱
+git add  xxx                             //添加到缓存区
+git rm --cached  xxx               //从缓存区删除该文件
+git commit -m “first” xxx    //提交本地库
+git reflog                               // 查看日志信息
+git  log                                        //更详细日志信息
+
